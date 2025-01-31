@@ -31,3 +31,13 @@ main>div {
     display: flex;
     justify-content: space-evenly;
 }
+
+ul {
+    font-size: large;
+}
+
+img.ab {
+    width: 100%;
+    height: auto;
+    display: block;
+}
