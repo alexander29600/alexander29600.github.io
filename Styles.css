@@ -16,7 +16,6 @@ h1 {
 }
 
 img.logo {
-    height: 100px;
     padding-top: 10px;
 }
 
@@ -33,6 +32,21 @@ main>div {
     justify-content: space-evenly;
 }
 
-/* img.img3 {
-    height: 300px;
- } */
+main>div img {
+    display: block;
+}
+
+ul {
+    font-size: large;
+}
+
+img.ab {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+footer>div {
+    display: flex;
+    justify-content: space-evenly;
+}
